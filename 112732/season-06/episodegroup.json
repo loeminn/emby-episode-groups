@@ -1,0 +1,192 @@
+{
+  "description": "哈哈哈哈哈 第6季：每期按正片上、正片下、加更排列。TMDB 112732；正片 S06E01–E24，加更 S00E65–E76。",
+  "groups": [
+    {
+      "name": "第6季",
+      "order": 6,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "season_number": 6,
+          "order": 0
+        },
+        {
+          "episode_number": 2,
+          "season_number": 6,
+          "order": 1
+        },
+        {
+          "episode_number": 65,
+          "season_number": 0,
+          "order": 2
+        },
+        {
+          "episode_number": 3,
+          "season_number": 6,
+          "order": 3
+        },
+        {
+          "episode_number": 4,
+          "season_number": 6,
+          "order": 4
+        },
+        {
+          "episode_number": 66,
+          "season_number": 0,
+          "order": 5
+        },
+        {
+          "episode_number": 5,
+          "season_number": 6,
+          "order": 6
+        },
+        {
+          "episode_number": 6,
+          "season_number": 6,
+          "order": 7
+        },
+        {
+          "episode_number": 67,
+          "season_number": 0,
+          "order": 8
+        },
+        {
+          "episode_number": 7,
+          "season_number": 6,
+          "order": 9
+        },
+        {
+          "episode_number": 8,
+          "season_number": 6,
+          "order": 10
+        },
+        {
+          "episode_number": 68,
+          "season_number": 0,
+          "order": 11
+        },
+        {
+          "episode_number": 9,
+          "season_number": 6,
+          "order": 12
+        },
+        {
+          "episode_number": 10,
+          "season_number": 6,
+          "order": 13
+        },
+        {
+          "episode_number": 69,
+          "season_number": 0,
+          "order": 14
+        },
+        {
+          "episode_number": 11,
+          "season_number": 6,
+          "order": 15
+        },
+        {
+          "episode_number": 12,
+          "season_number": 6,
+          "order": 16
+        },
+        {
+          "episode_number": 70,
+          "season_number": 0,
+          "order": 17
+        },
+        {
+          "episode_number": 13,
+          "season_number": 6,
+          "order": 18
+        },
+        {
+          "episode_number": 14,
+          "season_number": 6,
+          "order": 19
+        },
+        {
+          "episode_number": 71,
+          "season_number": 0,
+          "order": 20
+        },
+        {
+          "episode_number": 15,
+          "season_number": 6,
+          "order": 21
+        },
+        {
+          "episode_number": 16,
+          "season_number": 6,
+          "order": 22
+        },
+        {
+          "episode_number": 72,
+          "season_number": 0,
+          "order": 23
+        },
+        {
+          "episode_number": 17,
+          "season_number": 6,
+          "order": 24
+        },
+        {
+          "episode_number": 18,
+          "season_number": 6,
+          "order": 25
+        },
+        {
+          "episode_number": 73,
+          "season_number": 0,
+          "order": 26
+        },
+        {
+          "episode_number": 19,
+          "season_number": 6,
+          "order": 27
+        },
+        {
+          "episode_number": 20,
+          "season_number": 6,
+          "order": 28
+        },
+        {
+          "episode_number": 74,
+          "season_number": 0,
+          "order": 29
+        },
+        {
+          "episode_number": 21,
+          "season_number": 6,
+          "order": 30
+        },
+        {
+          "episode_number": 22,
+          "season_number": 6,
+          "order": 31
+        },
+        {
+          "episode_number": 75,
+          "season_number": 0,
+          "order": 32
+        },
+        {
+          "episode_number": 23,
+          "season_number": 6,
+          "order": 33
+        },
+        {
+          "episode_number": 24,
+          "season_number": 6,
+          "order": 34
+        },
+        {
+          "episode_number": 76,
+          "season_number": 0,
+          "order": 35
+        }
+      ]
+    }
+  ],
+  "id": ""
+}
