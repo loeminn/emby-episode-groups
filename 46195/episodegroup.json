@@ -2,7 +2,7 @@
   "description": "物语系列（TMDB 46195），按 TMDB「TV（首播日期）」剧集组排列，S07 的扇公式按 BD 分为两集。",
   "groups": [
     {
-      "name": "Specials",
+      "name": "特别篇",
       "order": 0,
       "episodes": [
         {
