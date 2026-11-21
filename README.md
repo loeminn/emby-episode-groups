@@ -7,24 +7,24 @@
 - TMDB ID `46195`
 - [下载 episodegroup.json](https://raw.githubusercontent.com/loeminn/emby-episode-groups/main/46195/episodegroup.json)
 - [查看配置](46195/episodegroup.json)
-- 按参考剧集组排列，共 12 组、121 集，季标题使用简体中文。[TMDB 参考剧集组](https://www.themoviedb.org/tv/46195/episode_group/6a125fe96d1fa649f9d49475?language=zh-CN)
+- 按参考剧集组排列，共 12 组、121 集。季标题参考下表所列 Bangumi 条目的中文名。[TMDB 参考剧集组](https://www.themoviedb.org/tv/46195/episode_group/6a125fe96d1fa649f9d49475?language=zh-CN)
 
 将 `episodegroup.json` 放入《物语系列》的节目根目录，在神医助手中开启“启用本地剧集组 TMDB”，并将视频或 STRM 文件按下表的本地季集编号入库。[神医助手使用说明](https://github.com/sjtuross/StrmAssistant/wiki/本地剧集组刮削)
 
-| 季标题 | 本地编号 |
-| --- | --- |
-| 特别篇 | S00E01–S00E05 |
-| 化物语 | S01E01–S01E15 |
-| 伪物语 | S02E01–S02E11 |
-| 猫物语（黑） | S03E01–S03E04 |
-| 物语系列 第二季 | S04E01–S04E26 |
-| 花物语 | S05E01–S05E05 |
-| 凭物语 | S06E01–S06E04 |
-| 终物语 | S07E01–S07E12 |
-| 历物语 | S08E01–S08E12 |
-| 终物语（下） | S09E01–S09E07 |
-| 续·终物语 | S10E01–S10E06 |
-| 物语系列 外传季与怪物季 | S11E01–S11E14 |
+| 季标题 | 本地编号 | Bangumi 条目 |
+| --- | --- | --- |
+| 特别篇 | S00E01–S00E05 | — |
+| 化物语 | S01E01–S01E15 | [1671](https://bgm.tv/subject/1671) |
+| 伪物语 | S02E01–S02E11 | [23161](https://bgm.tv/subject/23161) |
+| 猫物语（黑） | S03E01–S03E04 | [56117](https://bgm.tv/subject/56117) |
+| 物语系列 第二季 | S04E01–S04E26 | [68812](https://bgm.tv/subject/68812) |
+| 花物语 | S05E01–S05E05 | [82322](https://bgm.tv/subject/82322) |
+| 凭物语 | S06E01–S06E04 | [115932](https://bgm.tv/subject/115932) |
+| 终物语 | S07E01–S07E12 | [138829](https://bgm.tv/subject/138829) |
+| 历物语 | S08E01–S08E12 | [146104](https://bgm.tv/subject/146104) |
+| 终物语（下） | S09E01–S09E07 | [175596](https://bgm.tv/subject/175596) |
+| 续·终物语 | S10E01–S10E06 | [233926](https://bgm.tv/subject/233926) |
+| 物语系列 外传季&怪物季 | S11E01–S11E14 | [475354](https://bgm.tv/subject/475354) |
 
 ## 哈哈哈哈哈 · 第 6 季
 
