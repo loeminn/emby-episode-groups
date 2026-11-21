@@ -1,5 +1,5 @@
 {
-  "description": "物语系列（TMDB 46195），按 TMDB「TV（首播日期）」剧集组排列。",
+  "description": "物语系列（TMDB 46195），按 TMDB「TV（首播日期）」剧集组排列，S07 的扇公式按 BD 分为两集。",
   "groups": [
     {
       "name": "Specials",
@@ -403,59 +403,64 @@
           "order": 0
         },
         {
-          "episode_number": 2,
+          "episode_number": 1,
           "season_number": 4,
           "order": 1
         },
         {
-          "episode_number": 3,
+          "episode_number": 2,
           "season_number": 4,
           "order": 2
         },
         {
-          "episode_number": 4,
+          "episode_number": 3,
           "season_number": 4,
           "order": 3
         },
         {
-          "episode_number": 5,
+          "episode_number": 4,
           "season_number": 4,
           "order": 4
         },
         {
-          "episode_number": 6,
+          "episode_number": 5,
           "season_number": 4,
           "order": 5
         },
         {
-          "episode_number": 7,
+          "episode_number": 6,
           "season_number": 4,
           "order": 6
         },
         {
-          "episode_number": 8,
+          "episode_number": 7,
           "season_number": 4,
           "order": 7
         },
         {
-          "episode_number": 9,
+          "episode_number": 8,
           "season_number": 4,
           "order": 8
         },
         {
-          "episode_number": 10,
+          "episode_number": 9,
           "season_number": 4,
           "order": 9
         },
         {
-          "episode_number": 11,
+          "episode_number": 10,
           "season_number": 4,
           "order": 10
         },
         {
-          "episode_number": 12,
+          "episode_number": 11,
           "season_number": 4,
           "order": 11
+        },
+        {
+          "episode_number": 12,
+          "season_number": 4,
+          "order": 12
         }
       ]
     },

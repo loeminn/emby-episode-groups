@@ -7,7 +7,7 @@
 - TMDB ID `46195`
 - [下载 episodegroup.json](https://raw.githubusercontent.com/loeminn/emby-episode-groups/main/46195/episodegroup.json)
 - [查看配置](46195/episodegroup.json)
-- 按参考剧集组排列，共 12 组、121 集。季标题参考下表所列 Bangumi 条目的中文名。[TMDB 参考剧集组](https://www.themoviedb.org/tv/46195/episode_group/6a125fe96d1fa649f9d49475?language=zh-CN)
+- 以 TMDB 剧集组为基础，S07 的「扇·公式」按 BD 分为两话，共 12 组、122 集。季标题参考下表所列 Bangumi 条目的中文名。[TMDB 参考剧集组](https://www.themoviedb.org/tv/46195/episode_group/6a125fe96d1fa649f9d49475?language=zh-CN)
 
 将 `episodegroup.json` 放入《物语系列》的节目根目录，在神医助手中开启“启用本地剧集组 TMDB”，并将视频或 STRM 文件按下表的本地季集编号入库。[神医助手使用说明](https://github.com/sjtuross/StrmAssistant/wiki/本地剧集组刮削)
 
@@ -20,11 +20,21 @@
 | 物语系列 第二季 | S04E01–S04E26 | [68812](https://bgm.tv/subject/68812) |
 | 花物语 | S05E01–S05E05 | [82322](https://bgm.tv/subject/82322) |
 | 凭物语 | S06E01–S06E04 | [115932](https://bgm.tv/subject/115932) |
-| 终物语 | S07E01–S07E12 | [138829](https://bgm.tv/subject/138829) |
+| 终物语 | S07E01–S07E13 | [138829](https://bgm.tv/subject/138829) |
 | 历物语 | S08E01–S08E12 | [146104](https://bgm.tv/subject/146104) |
 | 终物语（下） | S09E01–S09E07 | [175596](https://bgm.tv/subject/175596) |
 | 续·终物语 | S10E01–S10E06 | [233926](https://bgm.tv/subject/233926) |
 | 物语系列 外传季&怪物季 | S11E01–S11E14 | [475354](https://bgm.tv/subject/475354) |
+
+### S07 终物语的 BD 分集
+
+| 本地编号 | 内容 | TMDB 原始编号 |
+| --- | --- | --- |
+| S07E01 | 扇·公式 其一 | S04E01 |
+| S07E02 | 扇·公式 其二 | S04E01 |
+| S07E03–S07E13 | 育·谜题 其一至忍·盔甲 其六 | S04E02–S04E12 |
+
+前两话需要分别使用 BD 分集文件入库。TMDB 将两话合为一条，前两集会共用该条目的元数据，可在 Emby 中分别编辑集标题。[Bangumi 分集](https://bgm.tv/subject/138829/ep) · [BD 收录信息](https://www.monogatari-series.com/owarimonogatari/package/01.html) · [TMDB 合集条目](https://www.themoviedb.org/tv/46195/season/4/episode/1?language=zh-CN)
 
 ## 哈哈哈哈哈 · 第 6 季
 
