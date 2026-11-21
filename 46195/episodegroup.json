@@ -2,7 +2,7 @@
   "description": "物语系列（TMDB 46195），按 TMDB「TV（首播日期）」剧集组排列。",
   "groups": [
     {
-      "name": "特别篇",
+      "name": "Specials",
       "order": 0,
       "episodes": [
         {

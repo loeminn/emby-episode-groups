@@ -13,7 +13,7 @@
 
 | 季标题 | 本地编号 | Bangumi 条目 |
 | --- | --- | --- |
-| 特别篇 | S00E01–S00E05 | — |
+| Specials | S00E01–S00E05 | — |
 | 化物语 | S01E01–S01E15 | [1671](https://bgm.tv/subject/1671) |
 | 伪物语 | S02E01–S02E11 | [23161](https://bgm.tv/subject/23161) |
 | 猫物语（黑） | S03E01–S03E04 | [56117](https://bgm.tv/subject/56117) |
