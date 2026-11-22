@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <episodedetails>
   <title>扇·公式 其一</title>
+  <sorttitle>扇·公式 其一</sorttitle>
+  <plot>神原骏河将转校生忍野扇介绍给阿良良木历。扇在绘制直江津高中的平面图时发现了一间图上没有的教室。两人进去查看，却被困在里面。这间教室让历想起了高一时的一场班会。</plot>
   <season>7</season>
   <episode>1</episode>
-  <lockedfields>Name</lockedfields>
+  <lockedfields>Name|SortName|Overview</lockedfields>
 </episodedetails>

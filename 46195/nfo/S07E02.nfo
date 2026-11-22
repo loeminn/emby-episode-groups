@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <episodedetails>
   <title>扇·公式 其二</title>
+  <sorttitle>扇·公式 其二</sorttitle>
+  <plot>阿良良木历向忍野扇讲起两年前的班会。为了查清是谁提前泄露了数学试题，班长老仓育提议投票。扇从那场投票的经过里发现了疑点，和历一起重新追查当年的真相。</plot>
   <season>7</season>
   <episode>2</episode>
-  <lockedfields>Name</lockedfields>
+  <lockedfields>Name|SortName|Overview</lockedfields>
 </episodedetails>
