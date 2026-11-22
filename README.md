@@ -36,12 +36,19 @@
 
 前两话需要分别使用 BD 分集文件入库。TMDB 将两话合为一条，前两集会共用该条目的元数据。[Bangumi 分集](https://bgm.tv/subject/138829/ep) · [BD 收录信息](https://www.monogatari-series.com/owarimonogatari/package/01.html) · [TMDB 合集条目](https://www.themoviedb.org/tv/46195/season/4/episode/1?language=zh-CN)
 
-剧集组 JSON 的 `name` 用于季标题。要在 Emby 中分别显示这两集的 Bangumi 标题，请启用媒体库的 NFO 元数据读取器，将下面的文件放到对应 BD 视频或 STRM 文件旁边，并确保除扩展名外文件名完全相同。放好后扫描媒体库。如已有同名 NFO，可在现有文件里更新 `<title>`，并将 `Name` 加入 `<lockedfields>`。[Emby NFO 说明](https://emby.media/learn/articles/metadata-discovery/local-formats/Metadata-NFO.html)
+### 单集标题 NFO
 
-- `S07E01` 扇·公式 其一。[下载 NFO](https://raw.githubusercontent.com/loeminn/emby-episode-groups/main/46195/nfo/S07E01.nfo)
-- `S07E02` 扇·公式 其二。[下载 NFO](https://raw.githubusercontent.com/loeminn/emby-episode-groups/main/46195/nfo/S07E02.nfo)
+剧集组 JSON 的 `name` 用于季标题。要在 Emby 中显示下表所列的 Bangumi 集标题，请启用媒体库的 NFO 元数据读取器，将 NFO 放到对应的视频或 STRM 文件旁边，并确保除扩展名外文件名完全相同。放好后扫描媒体库。如已有同名 NFO，可在现有文件里更新 `<title>`，并将 `Name` 加入 `<lockedfields>`。[Emby NFO 说明](https://emby.media/learn/articles/metadata-discovery/local-formats/Metadata-NFO.html)
 
-已经入库时，也可以在两集的「编辑元数据」里分别修改标题并锁定「名称」字段。[Emby 元数据管理说明](https://emby.media/support/articles/Metadata-manager.html)
+| 本地编号 | 标题 | NFO |
+| --- | --- | --- |
+| S04E06 | [物语系列总集篇Ⅰ](https://bgm.tv/ep/288825) | [下载](https://raw.githubusercontent.com/loeminn/emby-episode-groups/main/46195/nfo/S04E06.nfo) |
+| S04E11 | [物语系列总集篇Ⅱ](https://bgm.tv/ep/288830) | [下载](https://raw.githubusercontent.com/loeminn/emby-episode-groups/main/46195/nfo/S04E11.nfo) |
+| S04E16 | [物语系列总集篇Ⅲ](https://bgm.tv/ep/288835) | [下载](https://raw.githubusercontent.com/loeminn/emby-episode-groups/main/46195/nfo/S04E16.nfo) |
+| S07E01 | [扇·公式 其一](https://bgm.tv/ep/565018) | [下载](https://raw.githubusercontent.com/loeminn/emby-episode-groups/main/46195/nfo/S07E01.nfo) |
+| S07E02 | [扇·公式 其二](https://bgm.tv/ep/834674) | [下载](https://raw.githubusercontent.com/loeminn/emby-episode-groups/main/46195/nfo/S07E02.nfo) |
+
+已经入库时，也可以在对应剧集的「编辑元数据」里修改标题并锁定「名称」字段。[Emby 元数据管理说明](https://emby.media/support/articles/Metadata-manager.html)
 
 ## 哈哈哈哈哈 · 第 6 季
 
